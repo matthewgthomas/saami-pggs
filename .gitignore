@@ -1,15 +1,31 @@
 # History files
 .Rhistory
+<<<<<<< HEAD
+=======
+.Rapp.history
+
+# Session Data files
+.RData
+>>>>>>> 53b6b46575a32bbeac7b5c1669ac9141ed2e8274
 
 # Example code in package build process
 *-Ex.R
 
+<<<<<<< HEAD
 # R data files from past sessions
 .Rdata
+=======
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+>>>>>>> 53b6b46575a32bbeac7b5c1669ac9141ed2e8274
 
 # RStudio files
 .Rproj.user/
 
+<<<<<<< HEAD
 # =========================
 # Operating System Files
 # =========================
@@ -57,3 +73,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 .Rproj.user
+=======
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+>>>>>>> 53b6b46575a32bbeac7b5c1669ac9141ed2e8274
