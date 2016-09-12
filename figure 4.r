@@ -1,5 +1,5 @@
 ##
-## Analysis code for Thomas et al. (submitted): Smaller Saami herding groups cooperate more in a public goods experiment
+## Analysis code for Thomas et al. (2016): Smaller Saami herding groups cooperate more in a public goods experiment
 ##
 ## The code in this file sets up data for plotting figure 4
 ##
@@ -11,7 +11,7 @@
 ##          {------ web -------}
 ##
 ##
-## Copyright (c) 2015 Matthew Gwynfryn Thomas
+## Copyright (c) 2016 Matthew Gwynfryn Thomas
 ## 
 ## This program is free software; you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
